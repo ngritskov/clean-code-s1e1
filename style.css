@@ -123,7 +123,7 @@ input,button{
   vertical-align: middle;
 }
 
-.list-item > input[type="checkbox"] {
+.list-item > .task-checkbox {
   margin: 0 10px;
 }
 
