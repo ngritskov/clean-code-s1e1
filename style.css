@@ -13,7 +13,7 @@ body {
 .matrix img {
   width: 100%;
 }
-.matrix .more-inf {
+.matrix .info {
   font-family: fantasy, cursive;
 }
 
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 ul {
