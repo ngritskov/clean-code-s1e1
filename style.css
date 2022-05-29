@@ -10,11 +10,13 @@ ul {
   padding: 0;
 }
 
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
 
-input, button{
+input,
+button {
   outline: none;
 }
 
@@ -46,7 +48,8 @@ input, button{
   margin: 0 auto 0;
 }
 
-.task-input, .task-label {
+.task-input,
+.task-label {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -56,7 +59,9 @@ input, button{
   display: flex;
 }
 
-.add, .delete, .edit {
+.add,
+.delete,
+.edit {
   background: none;
   border: 0px;
   color: #888;
@@ -66,7 +71,9 @@ input, button{
   cursor: pointer;
 }
 
-.add:hover, .delete:hover, .edit:hover {
+.add:hover,
+.delete:hover,
+.edit:hover {
   color: #3a3a3a;
 }
 
